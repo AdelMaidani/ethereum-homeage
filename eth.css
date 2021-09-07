@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;700&display=swap');
+
+font-family: 'Quicksand', sans-serif;
+
+center{
+  font-family: 'Quicksand', sans-serif;
+}
+h1{
+  font-family: 'Quicksand', sans-serif;
+}
+p{
+  font-family: 'Quicksand', sans-serif;
+}
+h2{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bolder;
+}
+li{
+  font-family: 'Quicksand', sans-serif;
+}
+button{
+  font-family: 'Quicksand', sans-serif;
+}
+li:hover{
+  cursor: pointer;
+  font-weight: bold;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+header{
+  position: sticky;
+  top: 0;
+  background: white;
+}
+.navimg1{
+  padding-right: 30px
+}
+.se1{
+  padding: 20px
+}
+h4{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+  padding-bottom: 20px;
+  font-weight: bolder;
+}
+.se1bt{
+  padding: 10px;
+  background-color: white;
+  width: 150px;
+  border-width: thin;
+  border-radius: 5px
+}
+.se1p{
+  padding-bottom: 20px
+}
+.se2{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px
+}
+.se2p{
+  font-size: 30px;
+  padding-top: 40px
+}
+h1{
+  font-size: 30px
+}
+.se2div1{
+  padding-top: 80px;
+  margin-left: 20px
+}
+.se3{
+  display: grid;
+  grid-template-rows: 40% 60%;
+  margin: 10PX
+}
+.se3 > div{
+  padding: 1em;
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: thin;
+  align-self: center;
+}
+.se3div1{
+  background-color: grey
+}
+.se5{
+  background-color: lightblue
+}
+.se5 > div{
+  padding: 15px
+}
+.div5but{
+  width: 180px;
+  padding: 4px;
+  background-color: rgb(16, 168, 199);
+  color: white;
+  border-radius: 4px;
+  border-width: thin;
+}
+.div5but2{
+  width: 150px;
+  padding: 4px;
+  background-color: white;
+  border-radius: 4px;
+  border-width: thin;
+}
+
+.se6{
+  background-color: lightgreen;
+}
+.se6 > div{
+  padding: 15px
+}
+.eth > div{
+  padding: 20px
+}
+.num{
+  font-size: 30px;
+  font-weight: bolder;
+}
+.eth > div > p{
+  padding: 10px
+}
+.navdiv2{
+  display: flex;
+}
+.endingbut1{
+  width: 150px;
+  height: 50px;
+  padding: 4px;
+  background-color: rgb(16, 168, 199);
+  color: white;
+  border-radius: 4px;
+  border-width: thin;
+}
+.endingse{
+  background-color: grey;
+  margin: 10PX;
+}
+.endingse > div{
+  padding: 20px
+}
+.endingbut{
+  width: 150px;
+  height: 50px;
+  padding: 4px;
+  background-color: white;
+  color: black;
+  border-radius: 4px;
+  border-width: thin;
+}
+.h3{
+  margin-left: 10px
+}
+.foot1{
+  display: flex;
+  justify-content: space-between;
+}
+.foot2{
+  display: flex;
+  justify-content: space-between;
+}
+
+li{
+  list-style: none;
+  padding: 10px
+}
+footer{
+  margin: 10px
+}
